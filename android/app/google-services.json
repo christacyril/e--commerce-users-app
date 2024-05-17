@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "254352981336",
+    "firebase_url": "https://e-commerce-app-b87f6-default-rtdb.firebaseio.com",
+    "project_id": "e-commerce-app-b87f6",
+    "storage_bucket": "e-commerce-app-b87f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254352981336:android:4bc35d74cd02c94d3ef92d",
+        "android_client_info": {
+          "package_name": "com.example.footwear_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIACEcoQTqJftVqgAzjVhA3n681U0s4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254352981336:android:71224ad0f5deb6d13ef92d",
+        "android_client_info": {
+          "package_name": "com.example.footwear_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIACEcoQTqJftVqgAzjVhA3n681U0s4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
